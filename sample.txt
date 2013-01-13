@@ -1,0 +1,144 @@
+Company commander Captain Ma Bai id 1000
+Platoon commander Lieutenant Isaac Schultz id 1095
+Platoon commander Lieutenant Will Lee id 1115
+Platoon commander Lieutenant Dharmadas Motwani id 1024
+Platoon commander Lieutenant Asmita Akkineni id 1001
+Platoon commander Lieutenant Agha Palepu id 1050
+Squad commander Sergeant Noah Steiner id 1025
+Squad commander Sergeant Denys Ivanov id 1106
+Squad commander Sergeant Sophie Bailey id 1059
+Squad commander Sergeant Oscar Wise id 1032
+Squad commander Sergeant Nikhita Hanchate id 1042
+Squad commander Sergeant Balaji Rastogi id 1051
+Squad commander Sergeant Khyati Jampana id 1116
+Squad commander Sergeant Aaron Lowe id 1017
+Squad commander Sergeant Sophie Zaytsev id 1096
+Squad commander Sergeant Bei Bing id 1126
+Squad commander Sergeant Jonas Trifonov id 1078
+Squad commander Sergeant Gor Baumgartner id 1086
+Squad commander Sergeant Sydney Reyes id 1136
+Squad commander Sergeant Charleen Fletcher id 1010
+Squad commander Sergeant Ruby Jennings id 1002
+Squad commander Sergeant Jasmine Kelley id 1068
+Private Dong Bing id 1100
+Private Ma Guan id 1101
+Private Mao Foong id 1082
+Private Yian Deng id 1081
+Private Devaki Dewra id 1080
+Private Maella Leroy id 1105
+Private Ezio Iliev id 1104
+Private Chandrabhaga Desai id 1103
+Private Alex Gray id 1099
+Private Owen Reid id 1102
+Private Madhulata Kalavade id 1097
+Private Jose Hodge id 1092
+Private Andrea Silva id 1087
+Private Lou Cheung id 1091
+Private Garrett Reed id 1090
+Private Yin Xue id 1089
+Private Sha Ji id 1093
+Private Shou Hiu id 1094
+Private Pablo Bonnet id 1098
+Private Tan Lao id 1088
+Private Rachel Goodwin id 1084
+Private Clemence Mihaylov id 1085
+Private Allison Nguyen id 1083
+Private Deng Cai id 1112
+Private Chudamani Kandula id 1132
+Private Hanumant Kanduri id 1133
+Private Hrishikesh Marabathina id 1134
+Private Fei Shum id 1131
+Private Piyali Dixit id 1130
+Private Noah Pichler id 1128
+Private Vijul Mahoon id 1129
+Private Surekha Chattopadhyay id 1135
+Private Dinar Kakarala id 1137
+Private Devang Chhikara id 1142
+Private Tobias Brunner id 1143
+Private Vladyslav Russo id 1141
+Private Maximiliano Lang id 1140
+Private Jayden Lechkov id 1138
+Private Bhanupriya Aneja id 1139
+Private Maxim Haas id 1127
+Private Chakori Deshmukh id 1125
+Private Garrett Silva id 1079
+Private Saravati Malhan id 1113
+Private Kimberly Klein id 1114
+Private Anjali Bhattacharya id 1111
+Private Sagarika Kapadia id 1110
+Private Lilou Andre id 1108
+Private Joseph Wallace id 1109
+Private Steven Santos id 1117
+Private Andrei Lowe id 1118
+Private Ci Du id 1123
+Private Parindra Parihar id 1124
+Private Jayden Jones id 1122
+Private Aaarti Chakravarthy id 1121
+Private Dong Cao id 1119
+Private Han Chao id 1120
+Private Josh Flores id 1107
+Private Huo Bai id 1071
+Private Aboil Chakalakal id 1027
+Private Isabelle Mcknight id 1028
+Private Samuel Romero id 1029
+Private Jiang Chou id 1026
+Private Ezio Simon id 1023
+Private Bharati Gadiraju id 1021
+Private Ar Cheung id 1022
+Private Nathaniel Rodgers id 1030
+Private Kylie Sweeney id 1031
+Private Andriy Morel id 1037
+Private Kong Loh id 1038
+Private Luke Mccoy id 1036
+Private Clara Dimitrov id 1035
+Private Ion Stoyanov id 1033
+Private Nicole Hartman id 1034
+Private Naseen Goyal id 1020
+Private Huo Chieu id 1019
+Private Stephanie Hodge id 1007
+Private Friederich Eder id 1008
+Private Gang Ba id 1006
+Private Ethan Green id 1005
+Private Adrian Paul id 1003
+Private Joe Crawford id 1004
+Private Niu Bei id 1009
+Private Kaleb Barton id 1011
+Private Ricardo Hensley id 1016
+Private Dylan Hernandez id 1018
+Private Noah Lopez id 1015
+Private Laura Harper id 1014
+Private Bryce Riley id 1012
+Private Elijah Lyons id 1013
+Private Aidan Obrien id 1039
+Private Bryce Gilbert id 1040
+Private Jaden Larsen id 1065
+Private Janhavi Gohil id 1066
+Private Si Kong id 1064
+Private Diego Farmer id 1063
+Private Claire Smith id 1061
+Private Chandrabhaga Anumula id 1062
+Private Qi Jiao id 1067
+Private Har Bu id 1069
+Private Kayla Watkins id 1075
+Private Julian Stokes id 1076
+Private Jorge Spencer id 1074
+Private Kang Cai id 1073
+Private Joseph Thompson id 1070
+Private Yin Bi id 1072
+Private Maxim Janssens id 1060
+Private Jayden Wright id 1058
+Private Omar Hancock id 1046
+Private Hussain Shenoy id 1047
+Private Vanessa Ray id 1045
+Private Mykyta Bonnet id 1044
+Private Jayden Metodiev id 1041
+Private Hayden Sandoval id 1043
+Private Sucharita Chaurasia id 1048
+Private Dang Feng id 1049
+Private Hannah Ryan id 1056
+Private Fajyaz Gujjula id 1057
+Private Durga Dewangan id 1055
+Private Tobias Binder id 1054
+Private Yanis Goossens id 1052
+Private Bei Chao id 1053
+Private Wa Deer id 1077

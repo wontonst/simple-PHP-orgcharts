@@ -1,0 +1,5 @@
+backtrace to find army/div#s
+if not soldier print out which army group number the commanding officer commands
+metadata for the army itself, how many soldiers, etc
+move code around so code is organized better
+chinese names more legit
